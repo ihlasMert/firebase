@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bfa-YI-H0w"; */
+"Bfa-YI-H0w.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "OfQ-mH-N3d"; */
+"OfQ-mH-N3d.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Write "; ObjectID = "RVr-90-Hjx"; */
+"RVr-90-Hjx.placeholder" = "Write ";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "bHP-Ke-jWy"; */
+"bHP-Ke-jWy.configuration.title" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bHP-Ke-jWy"; */
+"bHP-Ke-jWy.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "fAi-P0-LVd"; */
+"fAi-P0-LVd.configuration.title" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fAi-P0-LVd"; */
+"fAi-P0-LVd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "fXq-Zx-r91"; */
+"fXq-Zx-r91.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fXq-Zx-r91"; */
+"fXq-Zx-r91.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ggd-23-oQa"; */
+"ggd-23-oQa.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "r5H-tq-cR0"; */
+"r5H-tq-cR0.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "tZ9-eD-dRp"; */
+"tZ9-eD-dRp.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "vrR-nZ-mQQ"; */
+"vrR-nZ-mQQ.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vrR-nZ-mQQ"; */
+"vrR-nZ-mQQ.normalTitle" = "Button";
